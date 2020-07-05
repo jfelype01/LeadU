@@ -1,0 +1,113 @@
+#inicio{
+    background-color: #210136;
+}
+#identificacao{
+    display: flex;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: 364px;
+}
+#identificacao header{
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: 64px;
+}
+#oquee{
+    background-color: #210136;
+    display: flex;
+    justify-content: center;
+}
+#funcionalidades{
+    display: flex;
+    justify-content: center;
+}
+#funcionalidades group1 h1{
+    display: flex;
+    justify-content: center;
+}
+#funcionalidades group2 h1{
+    display: flex;
+    justify-content: center;
+}
+#funcionalidades group3 h1{
+    display: flex;
+    justify-content: center;
+}
+#funcionalidades group1 h3{
+    display: flex;
+    justify-content: center;
+}
+#funcionalidades group2 h3{
+    display: flex;
+    justify-content: center;
+}
+#funcionalidades group3 h3{
+    display: flex;
+    justify-content: center;
+}
+#planos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#planos h1{
+    display: flex;
+    justify-content: center;
+}
+#planos header{
+    display: flex;
+    justify-content: center;
+}
+#planos header h2{
+    display: flex;
+    justify-content: center;
+}
+#parceiros{
+    display: flex;
+    flex-direction: column;
+}
+#parceiros h1{
+    display: flex;
+    justify-content: center;
+}
+#parceiros header{
+    display: flex;
+    justify-content: center;
+}
+#saiba h1{
+    display: flex;
+    justify-content: center;
+}
+#dizem h1{
+    display: flex;
+    justify-content: center;
+}
+#equipe{
+    display: flex;
+    flex-direction: column;
+}
+#equipe header{
+    display: flex;
+    justify-content: center;
+
+}
+#equipe h1{
+    display: flex;
+    justify-content: center;
+}
+#bruno{
+    padding: 40px;
+}
+#joao{
+    padding: 40px;
+}
+#bruna{
+    padding: 40px;
+}
+#edson{
+    padding: 40px;
+}
+#jhonatas{
+    padding: 40px;
+}
