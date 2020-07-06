@@ -20,14 +20,13 @@
             <button>Sobre nós</button>
         </header>
         </div>
-    </div>
-    <div id="oquee">
-        <header>
-            <h1>Um app que vai lhe ajudar a administrar seu negócio</h1>
-            <h2>Uma ferramenta que vai ajudar na gestão do estoque e no uso de diversas mídias para melhorar a sua experiência como vendedor</h2>
-            <img src="/images/disponivel-google-play-png-5.png">
-        </header>
-        <img src="/images/Flying-iPhone-X-Mockups 1.png">
+        <div id="oquee">
+            <header>
+                <h1>Seu gerenciador de vendas nas redes sociais e plaformas digitais</h1>
+                <img src="/images/disponivel-google-play-png-5.png">
+            </header>
+            <img src="/images/Flying-iPhone-X-Mockups 1.png">
+        </div>
     </div>
     <div id="funcionalidades">
         <group1>
@@ -74,7 +73,7 @@
                 </h3>
                 <button>Quero contratar</button>
             </div>
-            <div id="plabo3">
+            <div id="plano3">
                 <h2>Plano 3</h2>
                 <h1>R$300/mês</h1>
                 <h3>
@@ -92,21 +91,21 @@
     </div>
     <div id="parceiros">
         <h1>Conheça nossos parceiros</h1>
-        <header>
-            <img src="/images/Rectangle 33.png">
-            <img src="/images/Rectangle 33-1.png">
-            <img src="/images/Rectangle 33-2.png">
-            <img src="/images/Rectangle 33-3.png">
-            <img src="/images/Rectangle 33-4.png">
-        </header>
-        </div>
+        <h2>
+            <div id="primeiro"><img src="/images/Rectangle 33.png"></div>
+            <div id="segundo"><img src="/images/Rectangle 33-1.png"></div>
+            <div id="terceiro"><img src="/images/Rectangle 33-2.png"></div>
+            <div id="quarto"><img src="/images/Rectangle 33-3.png"></div>
+            <div id="quinto"><img src="/images/Rectangle 33-4.png"></div>
+        </h2>
+    </div>
     <div id="saiba">
         <h1>Saiba mais dobre a LeadU</h1>
         <img src="/images/Rectangle 333.png">
     </div>
     <div id="dizem">
         <h1>O que dizem sobre nós</h1>
-        <h1>"A plataforma criada para a microempreendedor"</h1>
+        <h2>"A plataforma criada para a microempreendedor"</h2>
         <h3></h3>
     </div>
     <div id="equipe">
