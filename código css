@@ -5,7 +5,8 @@
     display: flex;
     justify-content: center;
     margin-right: auto;
-    margin-left: 364px;
+    margin-left: 100px;
+    margin-top: 10px;
 }
 #identificacao header{
     display: flex;
@@ -13,10 +14,21 @@
     margin-left: auto;
     margin-right: 64px;
 }
+#oquee header h1{
+    color: white;
+}
 #oquee{
     background-color: #210136;
     display: flex;
     justify-content: center;
+    margin-top: 60px;
+    ;
+}
+#oquee header{
+    margin-top: 120px;
+    margin-right: 300px;
+    margin-left: 150px;
+    max-width: 360px;
 }
 #funcionalidades{
     display: flex;
@@ -46,10 +58,49 @@
     display: flex;
     justify-content: center;
 }
+#funcionalidades group1 h2{
+    display: flex;
+    width: 240px;
+    margin-left: 72px;
+}
+#funcionalidades group2 h2{
+    display: flex;
+    width: 240px;
+    margin-left: 72px;
+}
+#funcionalidades group3 h2{
+    display: flex;
+    width: 240px;
+    margin-left: 72px;
+}
 #planos{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    background-color: #eeeaeaea;
+}
+#plano1{
+    margin-left: 24px;
+    margin-right: 24px;
+    border: 10px;
+    
+}
+#plano1 h1{
+    color: #ce4040
+}
+#plano2{
+    margin-left: 24px;
+    margin-right: 24PX;
+}
+#plano2 h1{
+    color: #ce4040
+}
+#plano3{
+    margin-left: 24px;
+    margin-right: 24px;
+}
+#plano3 h1{
+    color: #ce4040
 }
 #planos h1{
     display: flex;
@@ -71,9 +122,32 @@
     display: flex;
     justify-content: center;
 }
-#parceiros header{
+#parceiros h2{
     display: flex;
     justify-content: center;
+}
+#primeiro{
+    margin-left: 24px;
+    margin-right: 24px;
+}
+#segundo{
+    margin-left: 24px;
+    margin-right: 24px;
+}
+#terceiro{
+    margin-left: 24px;
+    margin-right: 24px;
+}
+#quarto{
+    margin-left: 24px;
+    margin-right: 24px;
+}
+#quinto{
+    margin-left: 24px;
+    margin-right: 24px;
+}
+#saiba{
+    background-color: #1ff1f8;
 }
 #saiba h1{
     display: flex;
@@ -83,9 +157,15 @@
     display: flex;
     justify-content: center;
 }
+#dizem h2{
+    display: flex;
+    justify-content: center;
+    color: #1ff1f8
+}
 #equipe{
     display: flex;
     flex-direction: column;
+    background-color: #eeeaeaea;
 }
 #equipe header{
     display: flex;
@@ -95,6 +175,9 @@
 #equipe h1{
     display: flex;
     justify-content: center;
+}
+#equipe header h1{
+    color: #1ff1f8;
 }
 #bruno{
     padding: 40px;
