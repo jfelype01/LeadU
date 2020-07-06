@@ -1,24 +1,19 @@
 #inicio{
-    background-color: #210136;
+    background-color: #250048;
 }
 #identificacao{
     display: flex;
-    justify-content: center;
+    justify-content: left;
     margin-right: auto;
     margin-left: 100px;
     margin-top: 10px;
 }
-#identificacao header{
-    display: flex;
-    justify-content: center;
-    margin-left: auto;
-    margin-right: 64px;
-}
 #oquee header h1{
     color: white;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #oquee{
-    background-color: #210136;
+    background-color: #250048;
     display: flex;
     justify-content: center;
     margin-top: 60px;
@@ -73,34 +68,51 @@
     width: 240px;
     margin-left: 72px;
 }
+#funcionalidades group1{
+    padding: 80px;
+}
+#funcionalidades group2{
+    padding: 80px;
+}
+#funcionalidades group3{
+    padding: 80px;
+}
 #planos{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-color: #eeeaeaea;
+    background-color: #E0E0E0;
+    padding: 32px;
 }
 #plano1{
     margin-left: 24px;
     margin-right: 24px;
-    border: 10px;
-    
+    background-color: #250048;
+    border-radius: 16px;
+    padding: 8px;
 }
 #plano1 h1{
-    color: #ce4040
+    color: #F9386A;
 }
 #plano2{
     margin-left: 24px;
     margin-right: 24PX;
+    background-color: #250048;
+    border-radius: 16px;
+    padding: 8px;
 }
 #plano2 h1{
-    color: #ce4040
+    color: #F9386A
 }
 #plano3{
     margin-left: 24px;
     margin-right: 24px;
+    background-color: #250048;
+    border-radius: 16px;
+    padding: 8px;
 }
 #plano3 h1{
-    color: #ce4040
+    color: #F9386A;
 }
 #planos h1{
     display: flex;
@@ -113,6 +125,10 @@
 #planos header h2{
     display: flex;
     justify-content: center;
+    color: white
+}
+#planos h3{
+    color: white
 }
 #parceiros{
     display: flex;
@@ -147,7 +163,12 @@
     margin-right: 24px;
 }
 #saiba{
-    background-color: #1ff1f8;
+    background-color: #00C1EB;
+}
+#saiba h2{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
 }
 #saiba h1{
     display: flex;
@@ -160,12 +181,12 @@
 #dizem h2{
     display: flex;
     justify-content: center;
-    color: #1ff1f8
+    color: #00C1EB;
 }
 #equipe{
     display: flex;
     flex-direction: column;
-    background-color: #eeeaeaea;
+    background-color: #E0E0E0;
 }
 #equipe header{
     display: flex;
@@ -177,7 +198,7 @@
     justify-content: center;
 }
 #equipe header h1{
-    color: #1ff1f8;
+    color: #00C1EB;
 }
 #bruno{
     padding: 40px;
