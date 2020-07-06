@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head>/
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/styles/teste.css">
     <meta charset="UTF-8">
     <title>LeadU</title>
@@ -11,14 +12,6 @@
     <div id="inicio">    
         <div id="identificacao">
         <img src="/images/logo_leadu_2-03 1.png">
-        <header>
-            <button>Home</button>
-            <button>Planos</button>
-            <button>Parceiros</button>
-            <button>Saiba Mais</button>
-            <button>O que dizem</button>
-            <button>Sobre nós</button>
-        </header>
         </div>
         <div id="oquee">
             <header>
@@ -60,32 +53,31 @@
                     <h3>- Integração com redes sociais</h3> 
                     <h3>- Gestão de campanhas multicanais</h3>
                 </h3>
-                <button>Quero contratar</button>
             </div>
             <div id="plano2">
                 <h2>Plano 2</h2>
                 <h1>R$150/mês</h1>
                 <h3>
                     <h3>- Monitoramento de vendas</h3> 
-                    <h3>-  Dashboards de controle de finanças</h3> 
+                    <h3>- Dashboards de controle de finanças</h3>
                     <h3>- Integração com redes sociais e ecommerce</h3>
                     <h3>- Gestão de campanhas multicanais</h3>
+                    <h3>- Gestão de estoque</h3>
                 </h3>
-                <button>Quero contratar</button>
             </div>
             <div id="plano3">
                 <h2>Plano 3</h2>
                 <h1>R$300/mês</h1>
                 <h3>
-                    <h3>- Gestão de estoque</h3>
                     <h3>- Monitoramento de vendas</h3>
                     <h3>- Dashboards de controle de finanças</h3>
                     <h3>- Integração com redes sociais e ecommerce</h3>
+                    <h3>- Gestão de campanhas multicanais</h3>
+                    <h3>- Gestão de estoque</h3>
                     <h3>- Armazenamento em nuvem</h3>
                     <h3>- Canal de interação direto com o consumidor</h3>
-                    <h3>- Gestão de campanhas multicanais</h3>
+                    
                 </h3>
-                <button>Quero contratar</button>
             </div>
         </header>
     </div>
@@ -100,13 +92,14 @@
         </h2>
     </div>
     <div id="saiba">
-        <h1>Saiba mais dobre a LeadU</h1>
-        <img src="/images/Rectangle 333.png">
-    </div>
-    <div id="dizem">
-        <h1>O que dizem sobre nós</h1>
-        <h2>"A plataforma criada para a microempreendedor"</h2>
-        <h3></h3>
+        <h1>Saiba mais sobre a LeadU</h1>
+        <h2>
+            <button>
+                <a href="https://youtu.be/-6NlXA2gCFo">
+                    <img src="/images/image.svg">
+                </a>
+            </button>
+        </h2>
     </div>
     <div id="equipe">
         <h1>Quem faz a LeadU acontecer</h1>
